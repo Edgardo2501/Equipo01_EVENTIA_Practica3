@@ -1,0 +1,21 @@
+{
+  "name": "equipo01-eventia-practica3",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Prototipo funcional frontend de EVENTIA (BUAP - FCC) para la Práctica 3 de Ingeniería de Software I",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "lucide-react": "^0.453.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.2",
+    "vite": "^5.4.8"
+  }
+}
